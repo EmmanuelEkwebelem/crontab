@@ -7,9 +7,9 @@ Instructions:
 Create a new GitHub repo called 'crontab'
 
 Create 1 python file that pulls down data from an API and then create 3 cron jobs for that python API based on the following parameters: 
-One should pull down data from an API once a day (don’t care about what time) 
-One should pull down data every Sunday night at 10:00pm 
-And another one should pull down data at the end of every quarter  
+- One should pull down data from an API once a day (don’t care about what time) 
+- One should pull down data every Sunday night at 10:00pm 
+- One should pull down data at the end of every quarter  
 
 Report the appropriate cron job command (like in page 12 of this presentation) within the GitHub repo within the markdown file
 
